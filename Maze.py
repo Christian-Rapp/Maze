@@ -247,7 +247,7 @@ class Maze:
         return adjacent
 
 
-img = np.zeros((80, 80, 3), np.uint8)  # Image size in pixels only works with squares
+img = np.zeros((1000, 1000, 3), np.uint8)  # Image size in pixels only works with squares
 
 # Takes time past 1000 pixels x 1000 pixels
 
